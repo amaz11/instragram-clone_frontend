@@ -1,0 +1,16 @@
+.home-gallery {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  max-height: 500px;
+  margin: 25px auto;
+}
+
+.container-box {
+  margin: 100px auto;
+  width: 500px;
+  height: auto;
+}
+.icon-large {
+  font-size: 50px;
+}
